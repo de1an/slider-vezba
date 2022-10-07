@@ -4,7 +4,7 @@
 
 tekst **strong**
 --
-test __iskoseni tekst__
+test _iskoseni tekst_
 ***
 >random teskts quotes
 
