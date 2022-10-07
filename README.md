@@ -1,5 +1,11 @@
-Neki tekst 
+#Introduction Title
 
-proba
+##Subtitle
 
-<h1>sdqw</h1>
+tekst **strong**
+--
+test __iskoseni tekst__
+***
+>random teskts quotes
+
+"function xx(){}"
